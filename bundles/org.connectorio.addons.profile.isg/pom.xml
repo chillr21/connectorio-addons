@@ -33,6 +33,10 @@
 
   <dependencies>
     <dependency>
+      <groupId>org.connectorio.addons</groupId>
+      <artifactId>org.connectorio.units.si</artifactId>
+    </dependency>
+    <dependency>
       <groupId>org.openhab.core.bundles</groupId>
       <artifactId>org.openhab.core.thing</artifactId>
     </dependency>
